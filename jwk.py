@@ -1,6 +1,6 @@
-#Hasti Hareshbhai Rathod
+#Hasti Rathod
 #CSCE 3550
-#HHR0013
+#hhr0013
 
 # Import necessary libraries and modules
 from http.server import HTTPServer, BaseHTTPRequestHandler
